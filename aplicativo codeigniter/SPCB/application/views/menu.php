@@ -13,7 +13,7 @@
 
 <div id='cssmenu'>
 <ul>
-   <li><a href='<?php echo(HOME.'Pagina_Inicio/'); ?>'><span>Inicio</span></a></li>
+   <li><a href='<?php echo(URL.'Pagina_Inicio/'); ?>'><span>Inicio</span></a></li>
    <li class='active has-sub'><a href='#'><span>Reportes</span></a>
       <ul>
          <li class='has-sub'><a href='#'><span>Por Departamento</span></a>
@@ -42,7 +42,7 @@
    </li>
    <li><a href='#'><span>Nuevo Sondeo</span></a></li>
    <li><a href='#'><span>Quienes Somos</span></a></li>
-   <li class='last'><a href='<?php echo(HOME.'Login/'); ?>'><span>Iniciar Sesión</span></a></li>
+   <li class='last'><a href='<?php echo(URL.'Login/'); ?>'><span>Iniciar Sesión</span></a></li>
 </ul>
 </div>
 

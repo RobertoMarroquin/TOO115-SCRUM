@@ -1,0 +1,27 @@
+﻿
+
+copiar dentro de la carpeta
+
+C:\xampp\htdocs
+
+
+y ejecutar xammp
+
+en el explorador de internet escribir
+
+http://localhost/SPCB/
+
+
+
+
+----------------
+
+el tutorial que estoy siguiendo está en 
+
+
+https://www.youtube.com/watch?v=ChPw-r6ewQs&list=PLQBsSZ4qJdGmDU3-an3F60vx35IP47xYV&index=1
+
+y use lo de las variables globales para el archivo css y las imagenes.
+
+https://rstopup.com/como-puedo-incluir-el-archivo-css-de-codeigniter.html
+
